@@ -1,1 +1,1 @@
-# Magaly
+# diabetes-prediction-project
