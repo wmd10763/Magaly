@@ -46,4 +46,4 @@ See the notebook file for code, EDA, modeling, and analysis.
 ## References
 
 - National Institute of Diabetes and Digestive and Kidney Diseases.  
-- Dataset source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Pima+Indians+Diabetes)
+- Dataset source: [https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download]
