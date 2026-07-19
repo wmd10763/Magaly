@@ -38,7 +38,7 @@ The following tools and Python libraries were used in this project:
 
 ## How to Run the Project
 
-1. Open the provided Colab notebook link: [https://colab.research.google.com/drive/1hUfwGzI9BvJ4IedNHUzqg-fpcX-4Sk0d?usp=sharing]
+1. Open the provided Colab notebook link: https://colab.research.google.com/drive/1dlKsOKERADA9_Q80aspvzsvHvp2yfx5H?usp=sharing
 2. Go to **Runtime → Run all** to execute the code.
 3. Review the results and visualizations within the notebook.
 
